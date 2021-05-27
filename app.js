@@ -19,6 +19,8 @@ var randonNumn = Math.floor(Math.random() * 2);
         document.getElementById("demo").innerHTML ="No they are not equal"
        }
 
+
+       
  }
 
 
