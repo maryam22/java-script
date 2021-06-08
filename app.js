@@ -4,7 +4,7 @@
 
 // }
 
-var x = document.getElementById("btn");
+//var x = document.getElementById("btn");
 function myFunction(){
 
 var x = document.getElementById("myNumber");
@@ -17,13 +17,8 @@ var randonNumn = Math.floor(Math.random() * 2);
        } else
        {
         document.getElementById("demo").innerHTML ="No they are not equal"
-       }
-
-
-       
-
+       }       
  }
-
 
 
 };
