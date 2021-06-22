@@ -57,18 +57,21 @@ btnForm.addEventListener('click', addElement)
     tr.appendChild(td2)
     tr.appendChild(td3)
     tr.appendChild(td4)
-    td5.appendChild(template1)
     tr.appendChild(td5)
     td6.appendChild(template2)
     tr.appendChild(td6)
 
     //appanded text
     //let text = document.createTextNode(bookName.value)
+    var t=document.createTextNode("1")
+    th.appendChild(t)
     td1.appendChild( document.createTextNode(bookName.value))
     td2.appendChild(document.createTextNode(bookAuthor.value))
     td3.appendChild(document.createTextNode(bookCategory.value))
     td4.appendChild(document.createTextNode(bookDate.value))
     td5.appendChild(document.createTextNode(bookprice.value))
+    //print e simbole after
+    td5.appendChild(template1)
     tbody.append(tr)
 
     console.log(tr)
