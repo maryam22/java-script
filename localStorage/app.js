@@ -37,6 +37,7 @@ tempUserDB.push(newUser)
 localStorage.setItem('users',JSON.stringify(tempUserDB))
 console.log(tempUserDB)
 
+
 //ebook
 localStorage.setItem("EBook",JSON.stringify(EBook))
 let tempUserDB1 = JSON.parse(localStorage.getItem("EBook"))//array object
