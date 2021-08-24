@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "user": "root"
+    },
+    {
+        "name": "mariam",
+        "lastname": "SADSADSAD",
+        "email": "mariam@gmail.com",
+        "password": "SADASDSADSADSAD",
+        "address": "123mariehflke",
+        "city": "ternat",
+        "state": "Belgium",
+        "zip": "1234"
+    },
+    {
+        "name": "ayesha",
+        "lastname": "efze",
+        "email": "zczeczz",
+        "password": "ascaz",
+        "address": "sxazdaz",
+        "city": "zacza",
+        "state": "Belgium",
+        "zip": "zazaa"
+    }
+]
